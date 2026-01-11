@@ -1,0 +1,7 @@
+{
+  "name": "Mevlana Grup Hukuk Otomasyonu",
+  "description": "Av. Mehmetcan Karaca için özel olarak tasarlanmış, yapay zeka destekli profesyonel hukuk dilekçe otomasyon ve arşiv sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
